@@ -1,82 +1,102 @@
 {
   "wallpapers": [
     {
+	"author": "Unsplash",
       "url": "https://i.imgur.com/AfHGcZe.jpg",
       "name": "Wall 01"
     },
     {
+	    "author": "Unsplash",
       "url": "https://imgur.com/GospPhq.jpg",
       "name": "Wall 02"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/cRibvwH.jpg",
       "name": "Wall 03"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/KCtLlfW.jpg",
       "name": "Wall 04"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/w3TCcMr.jpg",
       "name": "Wall 05"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/sTQbqXR.jpg",
       "name": "Wall 06"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/77WyfuZ.jpg",
       "name": "Wall 07"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/i2Y9nej.jpg",
       "name": "Wall 08"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/Y9LaWrQ.jpg",
       "name": "Wall 09"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/bm0p82T.jpg",
       "name": "Wall 10"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/j5lpjeX.jpg",
       "name": "Wall 11"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/cIf5J5U.jpg",
       "name": "Wall 12"
     },
-	{
+    {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/W68XKtw.jpg",
       "name": "Wall 13"
     },
-	{
+    {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/eGvzltm.jpg",
       "name": "Wall 14"
     },
 	{
+		"author": "Unsplash",
       "url": "https://i.imgur.com/ueDFpEK.jpg",
       "name": "Wall 15"
     },
 	{
+		"author": "Unsplash",
       "url": "https://i.imgur.com/pDWucov.jpg",
       "name": "Wall 16"
     },
 	{
+		"author": "Unsplash",
       "url": "https://i.imgur.com/4GOKWqH.jpg",
       "name": "Wall 17"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/QFwzxkQ.jpg",
       "name": "Wall 18"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/nM1D13O.jpg",
       "name": "Wall 19"
     },
     {
+	    "author": "Unsplash",
       "url": "https://i.imgur.com/1N2wJxx.jpg",
       "name": "Wall 20"
     }
