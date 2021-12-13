@@ -1,2 +1,2 @@
 # Oreo
-Simple and minimal KWGT pack
+JSON file for wallpapers of "Oreo Zooper" application.
